@@ -1,0 +1,11 @@
+D:\project\learn\CSharp\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.csprojAssemblyReference.cache
+D:\project\learn\CSharp\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.AssemblyInfoInputs.cache
+D:\project\learn\CSharp\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.AssemblyInfo.cs
+D:\project\learn\CSharp\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.exe
+D:\project\learn\CSharp\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.deps.json
+D:\project\learn\CSharp\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.runtimeconfig.json
+D:\project\learn\CSharp\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.runtimeconfig.dev.json
+D:\project\learn\CSharp\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.dll
+D:\project\learn\CSharp\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.pdb
+D:\project\learn\CSharp\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.dll
+D:\project\learn\CSharp\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.pdb
