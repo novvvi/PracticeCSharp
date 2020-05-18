@@ -1,0 +1,11 @@
+D:\project\learn\CSharp\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.exe
+D:\project\learn\CSharp\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.deps.json
+D:\project\learn\CSharp\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.runtimeconfig.json
+D:\project\learn\CSharp\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.runtimeconfig.dev.json
+D:\project\learn\CSharp\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.dll
+D:\project\learn\CSharp\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.pdb
+D:\project\learn\CSharp\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.csprojAssemblyReference.cache
+D:\project\learn\CSharp\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.AssemblyInfoInputs.cache
+D:\project\learn\CSharp\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.AssemblyInfo.cs
+D:\project\learn\CSharp\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.dll
+D:\project\learn\CSharp\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.pdb
